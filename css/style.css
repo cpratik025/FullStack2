@@ -2,6 +2,7 @@ body{
   background-color: #f4eeff;
 }
 div{
-  height: 100px;
+  height: 100%;
+  width: 100%;
   background-color: #f4eeff;
 }
