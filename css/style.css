@@ -6,6 +6,7 @@ h1{
   margin-top: 0;
 }
 div{
+  margin: 20px;
   height: 100%;
   width: 100%;
   background-color: #f4eeff;
