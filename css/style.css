@@ -12,9 +12,9 @@ div{
   background-color: #f4eeff;
 }
 
-middle{
+.middle{
   background-color: green;
 }
-bottom{
+.bottom{
   background-color: red;
 }
