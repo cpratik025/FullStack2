@@ -11,3 +11,10 @@ div{
   width: 100%;
   background-color: #f4eeff;
 }
+
+middle{
+  background-color: green;
+}
+bottom{
+  background-color: red;
+}
